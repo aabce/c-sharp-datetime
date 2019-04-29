@@ -1,0 +1,11 @@
+/home/dev/coderepo/csharp/custom_date_time/bin/Debug/netcoreapp2.2/custom_date_time.deps.json
+/home/dev/coderepo/csharp/custom_date_time/bin/Debug/netcoreapp2.2/custom_date_time.runtimeconfig.json
+/home/dev/coderepo/csharp/custom_date_time/bin/Debug/netcoreapp2.2/custom_date_time.runtimeconfig.dev.json
+/home/dev/coderepo/csharp/custom_date_time/bin/Debug/netcoreapp2.2/custom_date_time.dll
+/home/dev/coderepo/csharp/custom_date_time/bin/Debug/netcoreapp2.2/custom_date_time.pdb
+/home/dev/coderepo/csharp/custom_date_time/obj/Debug/netcoreapp2.2/custom_date_time.csprojAssemblyReference.cache
+/home/dev/coderepo/csharp/custom_date_time/obj/Debug/netcoreapp2.2/custom_date_time.csproj.CoreCompileInputs.cache
+/home/dev/coderepo/csharp/custom_date_time/obj/Debug/netcoreapp2.2/custom_date_time.AssemblyInfoInputs.cache
+/home/dev/coderepo/csharp/custom_date_time/obj/Debug/netcoreapp2.2/custom_date_time.AssemblyInfo.cs
+/home/dev/coderepo/csharp/custom_date_time/obj/Debug/netcoreapp2.2/custom_date_time.dll
+/home/dev/coderepo/csharp/custom_date_time/obj/Debug/netcoreapp2.2/custom_date_time.pdb
